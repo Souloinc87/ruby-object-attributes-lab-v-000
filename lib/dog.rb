@@ -5,4 +5,5 @@ end
 def name
   @name = dogs_name
   end
+  self.name
 end
